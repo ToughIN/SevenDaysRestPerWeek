@@ -1,0 +1,4 @@
+repository "sdpwk@seven_days_rest@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
